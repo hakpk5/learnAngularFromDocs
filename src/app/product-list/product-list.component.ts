@@ -18,9 +18,3 @@ export class ProductListComponent {
     window.alert("You'll be notified when the product goes for live for sale!");
   }
 }
-
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
-*/
